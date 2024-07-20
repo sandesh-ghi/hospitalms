@@ -1,0 +1,24 @@
+
+
+# doctorspecilization
+Gynecologist/Obstetrician
+General Physician
+Dermatologist
+Homeopath
+Ayurveda
+Dentist
+Ear-Nose-Throat (Ent)
+Bones Specialist
+
+# users
+'Amit', 'kathmandu', 'kathmandu', 'male', 'amit@gmail.com','123456'
+'Rahul', 'pokhara', 'bokhara', 'male', 'rahul@gmail.com'
+
+# doctors`
+'Dentist', 'Anuj', 'pokhara', '1200', 9885703354, 'anuj@gmail.com','123456'
+'General Physician', 'Nitesh', 'kathmandu', '1500', 9823699999, 'nitesh@gmail.com','123456'
+'Homeopath', 'Vijay', 'nuwakot', '1000', 9866888877, 'vijay@gmail.com','123456'
+'Ayurveda', 'Sanjeev', 'bhaktapur', '2000', 9816664469, 'sanjeev@gmail.com','123456'
+
+'General Physician', 'Amrita', 'lalitpur', '2500', 9854979643, 'amrita@test.com',
+
